@@ -1,0 +1,176 @@
+.counter{
+  width: 100vw;
+  height:auto;
+  overflow: hidden;
+}
+/*-----------------------------------------------Header---------------------------------------------------*/
+.box1{
+   width: 100vw;
+  height:auto;
+  background-color:goldenrod;
+  display: flex;
+  text-align: center;
+  font-size: 30px;
+  
+}
+a{
+  text-decoration: none;
+  color: beige;
+}
+a:hover{
+  color: black;
+}
+.lobo{
+  width: 20vw;
+  height:100px;
+}
+.lobo img{
+   width: 20vw;
+  height:100px;
+}
+.home{
+  width: 20vw;
+  height:auto;
+  margin-top: 30px;
+
+}
+.about{
+  width: 20vw;
+  height:auto;
+ margin-top: 30px;
+}
+.blogs{
+  width: 20vw;
+  height:auto;
+ margin-top: 30px;
+}
+.joinus{
+  width: 20vw;
+  height:auto;
+  margin-top: 30px;
+}
+
+/* -----------------------------------------------main----------------------------------------------------*/
+
+
+.box2{
+   width: 100vw;
+  height:auto;
+
+}
+.image1{
+ width: 100vw;
+  height:1000px;
+}
+.image1 img{
+  width: 100vw;
+  height:1000px;
+}
+.image2{
+  width: 100vw;
+  height:700px;
+  display: flex;
+   background-color: beige;
+}
+.bimage2{
+width: 50vw;
+  height:700px;
+
+}
+.bimage2 img{
+  width: 50vw;
+  height:700px;
+}
+.Description2{
+  width: 50vw;
+  height:700px;
+  margin-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 40px;
+}
+.Description2 p{
+  font-size: 20px;
+  text-align: justify;
+}
+.image3{
+  width: 100vw;
+  height:700px;
+  
+}
+.image3 img{
+  width: 100vw;
+  height:700px;
+}
+
+
+/* ---------------------------------------------------------footer----------------------------------------- */
+.footer{
+    width: 1300px;
+    height: 250px;
+    background-color: rgb(142, 165, 42); 
+align-items: center;
+}
+
+.fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #043a63;
+    color: white;
+  }
+  .fa-instagram {
+    background: #55ACEE;
+    color: rgb(226, 31, 31);
+  }
+  .fa-linkedin-square {
+    background: #174d77;
+    color: white;
+  }
+  .fa-envelope {
+    background: #d35a5a;
+    color: rgb(56, 68, 238);
+  }
+  .fa {
+    padding: 30px;
+    font-size: 35px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 100%;
+  }
+.button{
+    height: 40px;
+    width: 40px;
+    background-color: rgb(8, 10, 10);
+  }
+
+  .footer1{
+float: inline-start;
+width: 650px;
+    height: 250px;
+    
+  }
+
+.footer2{
+    width: 325px;
+    height: 250px;
+float: inline-end;
+font-size: 20px;
+}
+.footer3{
+    width: 325px;
+    height: 250px;
+float: inline-end;
+font-size: 20px;
+}
+

@@ -1,0 +1,448 @@
+.counter{
+  width: 100vw;
+  height:auto;
+  overflow: hidden;
+}
+/*-----------------------------------------------Header---------------------------------------------------*/
+.box1{
+   width: 100vw;
+  height:auto;
+  background-color:goldenrod;
+  display: flex;
+  text-align: center;
+  font-size: 30px;
+  
+}
+a{
+  text-decoration: none;
+  color: beige;
+}
+a:hover{
+  color: black;
+}
+.lobo{
+  width: 20vw;
+  height:100px;
+}
+.lobo img{
+   width: 20vw;
+  height:100px;
+}
+.home{
+  width: 20vw;
+  height:auto;
+  margin-top: 30px;
+
+}
+.about{
+  width: 20vw;
+  height:auto;
+ margin-top: 30px;
+}
+.blogs{
+  width: 20vw;
+  height:auto;
+ margin-top: 30px;
+}
+.joinus{
+  width: 20vw;
+  height:auto;
+  margin-top: 30px;
+}
+
+
+.box2{
+    height:1450px;
+    width: 1250px;
+    background-color:white;
+}
+.box2a{
+    height:735px;
+    width: 250px;
+    float:left;
+    background-color:rgb(97, 94, 94);
+}
+
+.box2a1{
+    height:100 ;
+    width:250;
+    color: beige;
+    margin-top: 65px;
+    padding-left: 25px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.box2a2{
+    height:100 ;
+    width:250;
+    color: beige;
+    margin-top: 65px;
+    padding-left: 25px;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.box2a3{
+    height:100 ;
+    width:250;
+    color: beige;
+    margin-top: 65px;
+    padding-left: 25px;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.box2a4{
+    height:100 ;
+    width:250;
+    color: beige;
+    margin-top: 65px;
+    padding-left: 25px;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.box2a5{
+    height:100 ;
+    width:250;
+    color: beige;
+    margin-top: 150px;
+    padding-left: 25px;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.box2a6{
+    height:100 ;
+    width:250;
+    color: beige;
+    margin-top: 80px;
+    padding-left: 25px;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.box2b{
+    height:760px;
+    width: 1000px;
+    float:right;
+    background-color:rgb(249, 250, 248);
+}
+
+.box2b1,.box2b2,.box2b3,.box2b4{
+    height: 100px;
+    width: 220px;
+    border-radius: 10px;
+    float: inline-start;
+    margin: 15px;
+    padding-bottom: 45px;
+
+}
+.box2b1{
+    background-color: rgb(175, 115, 115);
+}
+.box2b2{
+    background-color: rgb(85, 165, 85);
+}
+.box2b3{
+    background-color: rgb(78, 210, 214);
+}
+.box2b4{
+    background-color: rgb(29, 59, 29);
+}
+
+
+.text{
+    text-shadow: 10px;
+    color:rgb(238, 236, 232);
+}
+
+.box3{
+    height: 500px;
+    width: 1000px;
+    float: right;
+    margin: 0px;
+    padding: 0px;
+}
+
+.box3a{
+    height: 500px;
+    width: 470px;
+    float: left;
+     background-image: url("https://cdn.pixabay.com/photo/2016/01/19/01/42/library-1147815_960_720.jpg");
+     border-radius: 15px;
+     margin: 15px;
+    padding-bottom: 45px;
+}
+
+.box3b{
+      height: 500px;
+      width: 470px;
+      background-color: white;
+      float: right;
+      margin: 15px;
+    padding-bottom: 45px; 
+}
+
+.box3b1{
+    height: 230px;
+    width: 200px;
+    float: left;
+    margin: 15px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+
+.box3b2{
+    height: 230px;
+    width: 200px;
+    background-color: rgb(81, 204, 81);
+    float: right;
+    margin: 15px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+.box3b3{
+    height: 230px;
+    width: 200px;
+    background-image: url("https://c7.alamy.com/comp/JXPPHR/abstract-3d-illustration-conceptual-image-of-structure-and-connections-JXPPHR.jpg");
+    float: left;
+    margin: 15px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+.box3b4{
+    height: 230px;
+    width: 200px;
+    background-color: rgb(167, 106, 106);
+    float: right;
+    margin: 15px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+
+.box3b1a{
+    height: 190px;
+    width: 200px;
+    background-image: url("https://cdn.pixabay.com/photo/2016/01/19/01/42/library-1147815_960_720.jpg");
+    border-radius: 10px;
+}
+
+.box3b1b{
+    height: 20px;
+    width: 200px;
+    border-radius: 10px;
+    padding-bottom: 5px;
+    
+}
+
+.box3b2a{
+    height: 190px;
+    width: 200px;
+    background-image: url("https://cdn.pixabay.com/photo/2016/01/19/01/42/library-1147815_960_720.jpg");
+    border-radius: 10px;
+}
+
+.box3b2b{
+    height: 20px;
+    width: 200px;
+    border-radius: 10px;
+    padding-bottom: 5px;
+    
+}
+
+.box3b3a{
+    height: 190px;
+    width: 200px;
+    background-image: url("https://cdn.pixabay.com/photo/2016/01/19/01/42/library-1147815_960_720.jpg");
+    border-radius: 10px;
+}
+
+.box3b3b{
+    height: 20px;
+    width: 200px;
+    border-radius: 10px;
+    padding-bottom: 5px;
+    
+}
+.box3b4a{
+    height: 190px;
+    width: 200px;
+    background-image: url("https://cdn.pixabay.com/photo/2016/01/19/01/42/library-1147815_960_720.jpg");
+    border-radius: 10px;
+}
+
+.box3b4b{
+    height: 20px;
+    width: 200px;
+    border-radius: 10px;
+    padding-bottom: 5px;
+    
+}
+
+.btn{
+    color:aqua;
+    background-color: blueviolet;
+    
+}
+.mp1{
+    color:rgb(212, 233, 20);
+    margin-left: 20px;
+}
+
+                             /* issu form    css here */
+
+.issuform{
+    height: 150px;
+    width: 180px;
+   margin-left: 10px;
+   border-radius: 10px;
+   background-image: url("https://c7.alamy.com/comp/2DHDWR1/black-wall-of-honeycombs-chaotic-cubes-wall-background-panorama-with-high-resolution-wallpaper-3d-render-illustration-2DHDWR1.jpg");
+   opacity: 4px;
+    
+}
+.issuh1{
+    color:azure;
+    margin-left: 15px;
+   
+    
+}
+
+.boxissu{
+    height: 230px;
+    width: 200px;
+    background-image: url("https://c7.alamy.com/comp/JXPPHR/abstract-3d-illustration-conceptual-image-of-structure-and-connections-JXPPHR.jpg");
+    float: right;
+    margin: 15px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+.issubtn{
+   border-radius: 7px;
+   background-color: brown;
+   margin-top: 5px;
+   margin-left: 15px;
+}
+.issuname,.issuid,.issudate{
+    width:150px;
+    margin-top: 5px;
+    margin-left: 10px;
+    border-radius: 10px;
+
+
+}
+
+.box3b4{
+    height: 230px;
+    width: 200px;
+    background-color: rgb(167, 106, 106);
+    float: inline-end;
+    margin: 15px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+
+          /* -----------------New Pass Create Css Code------------------------*/
+
+.Newpass{
+    height:560px;
+    width: 950px;
+    float:inline-end;
+    margin-right: 30px;
+    border-radius: 10px;
+    background-image: url("https://c7.alamy.com/comp/2DHDWR1/black-wall-of-honeycombs-chaotic-cubes-wall-background-panorama-with-high-resolution-wallpaper-3d-render-illustration-2DHDWR1.jpg");
+}
+
+.ph1,.pp1,.pp2{
+    margin-left: 350px;
+    color: rgb(64, 189, 70);
+}
+
+.pname,.page,.pphone,.pemail,.paddress,.pgender{
+    margin-left: 70px;
+    margin-bottom: 7px;
+    padding-bottom: 15px;
+    width: 800px;
+
+}
+.up{
+    margin-left: 70px;
+    color: rgb(64, 189, 70);
+}
+
+.pbtn{
+    margin-left: 430px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    background-color: rgb(255, 17, 17);
+    color:rgb(243, 247, 10);
+}
+
+/* ---------------------------------------------------------footer----------------------------------------- */
+.footer{
+    width: 1300px;
+    height: 250px;
+    background-color: rgb(142, 165, 42); 
+align-items: center;
+}
+
+.fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #043a63;
+    color: white;
+  }
+  .fa-instagram {
+    background: #55ACEE;
+    color: rgb(226, 31, 31);
+  }
+  .fa-linkedin-square {
+    background: #174d77;
+    color: white;
+  }
+  .fa-envelope {
+    background: #d35a5a;
+    color: rgb(56, 68, 238);
+  }
+  .fa {
+    padding: 30px;
+    font-size: 35px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 100%;
+  }
+.button{
+    height: 40px;
+    width: 40px;
+    background-color: rgb(8, 10, 10);
+  }
+
+  .footer1{
+float: inline-start;
+width: 650px;
+    height: 250px;
+    
+  }
+
+.footer2{
+    width: 325px;
+    height: 250px;
+float: inline-end;
+font-size: 20px;
+}
+.footer3{
+    width: 325px;
+    height: 250px;
+float: inline-end;
+font-size: 20px;
+}
+

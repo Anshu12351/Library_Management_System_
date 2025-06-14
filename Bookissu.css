@@ -1,0 +1,16 @@
+.counter{
+    height: 230px;
+    width: 200px;
+    background-color: rgb(32, 216, 32);
+    float: right;
+    margin: 15px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+.f{
+    margin-left: 10px;
+}
+.f{
+    margin-left: 10px;
+    color:rgb(243, 247, 19);
+}

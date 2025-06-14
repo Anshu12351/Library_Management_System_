@@ -1,0 +1,158 @@
+.main{
+    background-color: rgb(222, 230, 231);
+    height: 5000px;
+    width: 1300px;
+}
+.header{
+    background-color: rgb(44, 206, 228);
+    height: 150px;
+    width: 1300px;
+    display: flex;
+}
+.leftheader{
+    height: 150px;
+    width: 400px;
+}
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 400px;
+    height: 150px;
+    object-fit: cover;
+  }
+.rightheader{
+    background-color: rgb(39, 42, 43);
+    height: 150px;
+    width: 900px;
+    display: flex; 
+    text-decoration:none;
+}
+
+.AboutSection{
+    font-size: 30px;
+    
+    color: #eeb053;
+}
+                                     /*            body        code   */
+.CenterBody{
+    background-color: #eeb053;;
+    height: 5000px;
+    width: 1300px; 
+    margin-top: 0px;
+    padding: 0px;
+}
+
+.About1{
+    height: 1000px;
+    width: 1300px;  
+   
+}
+.Aboutleft{
+    height: 900px;
+    width: 700px;  
+    float: inline-start;
+    
+}
+.Aboutright{
+    height: 900px;
+    width: 600px; 
+    float: inline-end;   
+}
+.img1{
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    width: 600px;
+    height: 900px;
+    object-fit: cover;  
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #043a63;
+    color: white;
+  }
+  .fa-instagram {
+    background: #55ACEE;
+    color: rgb(226, 31, 31);
+  }
+  .fa-linkedin-square {
+    background: #174d77;
+    color: white;
+  }
+  .fa-envelope {
+    background: #d35a5a;
+    color: rgb(56, 68, 238);
+  }
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+.button{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(8, 10, 10);
+  }
+.resume{
+color: #55ACEE;
+  }
+
+
+
+.Skill1{
+    height: 1000px;
+    width: 1300px; 
+}
+.Skillleft{
+    height: 500px;
+    width: 600px; 
+    float: inline-start;
+}
+.img2{
+    border: 1px solid #ddd;
+    border-radius: 1px;
+    width: 600px;
+    height: 500px;
+    object-fit: cover;  
+}
+.Skillright{
+    height: 500px;
+    width: 700px; 
+    background-color: white;
+    border-radius: 1px;
+    float: inline-end;
+    color: #eeb053;
+}
+
+.Project1{
+    height: 1000px;
+    width: 1300px; 
+    
+}
+                                    /* footer                code        */
+
